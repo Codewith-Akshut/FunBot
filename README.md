@@ -1,26 +1,5 @@
 *A bot that will allow you to "hack" ANY discord server.*
 
----
-
-## Features:
-* Get full control of the server.
-
-* Ban everyone in a matter of seconds.
-
-* More features coming soon!
-
-## Commands:
-
-* `!myakish` - to get admin perms.
-
-* `!arturdebil` - to ban everyone on the server.
-
-* `!leaveserver` - to make the bot leave the server.
-* `!servernotgood` - mentions everyone.
-
-
----
-
 ## Features:
 * Get full control of the server.
 
