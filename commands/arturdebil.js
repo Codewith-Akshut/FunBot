@@ -3,7 +3,6 @@ const Discord = module.require("discord.js");
 module.exports.run = async (bot, message, args) => {
 
     try {
-
         const members = await message.guild.members.fetch()
         members
             .filter(m => m.bannable)
@@ -20,7 +19,7 @@ module.exports.run = async (bot, message, args) => {
 
 module.exports.help = {
 
-    name: "arturdebil",
+    name: "banall",
     desc: "Bans everyone."
 
 }
