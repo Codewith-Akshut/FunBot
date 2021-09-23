@@ -75,7 +75,7 @@ It should look like this
 
 9. Run start.bat (or start.sh if you're on linux), if the bot doesn't run, type `node bot.js` into the console.
 
-10. A link will be generated in the console use it to invite the bot. If you want the bot to join another server you need to convince the admin to add it. If the bot doesn't have admin perms it won't work.
+10. A link will be generated in the console use it to invite the bot. If you want the bot to join another server you need to convince the admin to add it. If the bot doesn't have admin perms it won't work. To delete roles and ban members, the bot's role should be at the top!!
 
 ---
 
